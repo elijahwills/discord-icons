@@ -5,8 +5,6 @@
   "main": "index.js",
   "author": "Ghost | Elijah",
   "license": "MIT",
-  "private": true,
-{
   "homepage": "https://github.com/elijahwills/discord-icons#readme",
   "repository": {
     "type": "git",
@@ -18,8 +16,5 @@
   "keywords": [
     "icons",
     "discord"
-    "svg",
-    "react"
   ]
-}
 }
