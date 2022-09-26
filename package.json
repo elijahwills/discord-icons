@@ -1,0 +1,25 @@
+{
+  "name": "discord-icons",
+  "version": "0.0.1",
+  "description": "Your favorite Discord icons at your fingertips",
+  "main": "index.js",
+  "author": "Ghost | Elijah",
+  "license": "MIT",
+  "private": true,
+{
+  "homepage": "https://github.com/elijahwills/discord-icons#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elijahwills/discord-icon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elijahwills/discord-icon/issues"
+  },
+  "keywords": [
+    "icons",
+    "discord"
+    "svg",
+    "react"
+  ]
+}
+}
