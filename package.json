@@ -1,20 +1,13 @@
 {
   "name": "discord-icons",
-  "version": "0.0.1",
-  "description": "Your favorite Discord icons at your fingertips",
+  "version": "1.0.0",
+  "description": "Discord icons made easier",
   "main": "index.js",
-  "author": "Ghost | Elijah",
+  "repository": "https://github.com/elijahwills/discord-icons",
+  "author": "GhostOperator",
   "license": "MIT",
-  "homepage": "https://github.com/elijahwills/discord-icons#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/elijahwills/discord-icon.git"
-  },
-  "bugs": {
-    "url": "https://github.com/elijahwills/discord-icon/issues"
-  },
-  "keywords": [
-    "icons",
-    "discord"
-  ]
+  "private": true,
+  "dependencies": {
+    "classnames": "^2.3.2"
+  }
 }

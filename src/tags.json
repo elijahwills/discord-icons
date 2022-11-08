@@ -1,0 +1,169 @@
+{
+  "boost": ["1 month", "1 month boost", "streak 1", "bosst 1 month", "boost 1"],
+  "boost_2": [
+    "2 month",
+    "2 months",
+    "2 month boost",
+    "streak 2",
+    "bosst 2 month",
+    "bosst 2 months",
+    "boost 2"
+  ],
+  "boost_3": [
+    "3 month",
+    "3 months",
+    "3 month boost",
+    "streak 3",
+    "bosst 3 month",
+    "bosst 3 months",
+    "boost 3"
+  ],
+  "boost_4": [
+    "6 month",
+    "6 months",
+    "6 month boost",
+    "streak 4",
+    "bosst 6 month",
+    "bosst 6 months",
+    "boost 4"
+  ],
+  "boost_5": [
+    "9 month",
+    "9 months",
+    "9 month boost",
+    "streak 5",
+    "bosst 9 month",
+    "bosst 9 months",
+    "boost 5"
+  ],
+  "boost_6": [
+    "12 month",
+    "12 months",
+    "12 month boost",
+    "streak 6",
+    "bosst 12 month",
+    "bosst 12 months",
+    "boost 6"
+  ],
+  "boost_7": [
+    "15 month",
+    "15 months",
+    "15 month boost",
+    "streak 7",
+    "bosst 15 month",
+    "bosst 15 months",
+    "boost 7"
+  ],
+  "boost_8": [
+    "18 month",
+    "18 months",
+    "18 month boost",
+    "streak 8",
+    "bosst 18 month",
+    "bosst 18 months",
+    "boost 8"
+  ],
+  "boost_9": [
+    "24 month",
+    "24 months",
+    "24 month boost",
+    "streak 9",
+    "bosst 24 month",
+    "bosst 24 months",
+    "boost 9"
+  ],
+  "bug_hunter": [
+    "bug hunter",
+    "bug hunter level 1",
+    "bug squasher",
+    "bug finder",
+    "bug hunter 1",
+    "green bug hunter"
+  ],
+  "gold_bug_hunter": [
+    "gold bug hunter",
+    "golden bug hunter",
+    "bug hunter level 2",
+    "bug squasher 2",
+    "bug finder 2",
+    "yellow bug hunter"
+  ],
+  "certified_moderator": [
+    "moderator",
+    "mod",
+    "certified moderator",
+    "dcm",
+    "moderator academy",
+    "discord academy"
+  ],
+  "staff": [
+    "staff",
+    "discord staff",
+    "admin",
+    "discord admin",
+    "admins",
+    "trust & safety"
+  ],
+  "early_supporter": [
+    "early supporter",
+    "supporter",
+    "early nitro",
+    "2018 nitro subscriber"
+  ],
+  "hypesquad_balance": [
+    "hypesquad balance",
+    "green hypesquad",
+    "balance",
+    "balance army"
+  ],
+  "hypesquad_bravery": [
+    "hypesquad bravery",
+    "purple hypesquad",
+    "bravery",
+    "bravery army"
+  ],
+  "hypesquad_brilliance": [
+    "hypesquad brilliance",
+    "red hypesquad",
+    "brilliance",
+    "brilliance army"
+  ],
+  "hypesquad_events": [
+    "golden hypesquad",
+    "gold hypesquad",
+    "hypesquad events",
+    "yellow hypesquad",
+    "special hypesquad"
+  ],
+  "nitro": ["premium", "nitro", "subscriber"],
+  "partner": [
+    "partner",
+    "affiliate",
+    "partnered owner",
+    "partnered server owner"
+  ],
+  "partnered_server": [
+    "partnered server",
+    "partnered",
+    "affiliated server",
+    "affiliated"
+  ],
+  "bot_developer": [
+    "early verified bot developer",
+    "developer",
+    "bot developer",
+    "dev",
+    "verified developer"
+  ],
+  "verified": ["verified", "verified server", "checkmark", "check"],
+  "do_not_disturb": [
+    "dnd",
+    "do not disturb",
+    "no notifications",
+    "unavailable"
+  ],
+  "idle": ["idle", "AFK", "away from keyboard"],
+  "offline": ["offline", "invisible", "not online"],
+  "online": ["online", "available"],
+  "streaming": ["live", "streaming", "stream", "twitch", "youtube"]
+}
